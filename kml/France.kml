@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>France</name>
+    <Style id="icon-503-EE9C96-normal">
+      <IconStyle>
+        <color>ff969cee</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-EE9C96-highlight">
+      <IconStyle>
+        <color>ff969cee</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-EE9C96">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-EE9C96-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-EE9C96-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Jugger Angers</name>
+      <description>No Page as of Yet</description>
+      <styleUrl>#icon-503-EE9C96</styleUrl>
+      <Point>
+        <coordinates>
+          -0.5630493,47.4782902,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les Calanquiers</name>
+      <description>Jugger Team from Marseilles</description>
+      <styleUrl>#icon-503-EE9C96</styleUrl>
+      <Point>
+        <coordinates>
+          5.3774643,43.2944497,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Paris</name>
+      <description>https://www.facebook.com/groups/120405368573633/</description>
+      <styleUrl>#icon-503-EE9C96</styleUrl>
+      <Point>
+        <coordinates>
+          2.35222190000002,48.856614,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[Australia & NZ]]></name>
+    <Style id="icon-959-7C3592-normal">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-7C3592-highlight">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-959-7C3592">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-7C3592-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-7C3592-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-959-A61B4A-normal">
+      <IconStyle>
+        <color>ff4a1ba6</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-A61B4A-highlight">
+      <IconStyle>
+        <color>ff4a1ba6</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-959-A61B4A">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-A61B4A-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-A61B4A-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>New Zealand Jugger League</name>
+      <description>https://www.facebook.com/nzjugger</description>
+      <styleUrl>#icon-959-7C3592</styleUrl>
+      <Point>
+        <coordinates>
+          174.3229866,-35.7252976,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Toowoomba</name>
+      <description><![CDATA[<img src="https://doc-0c-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/kuo3st3l0oc5a5ecoabjkveh1c/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALr9TihYbNe2DPVEn4QCJw1mvXCp_v33HmhPDK_uVUhNI3hkfC9bYEp1NgbTIuymO0-v20vKioXqSd401k8XDWt0fJlfHsVCyh9Oi8kK-6lxTKSpo6AOqtFux8I8zOV_pHxrI0JzQ0SmKTrzQfD459rWODPioN5VEK9x1Rk_UICnd_QNMCMKLtvdQ1wQqestphn5UlmTsaqk5zU4RVpouhPkiKqdf_y1dnjsNMhraRNrcJ_4K0mzQwZTEbHpeHK1jNVvcwFXMEiEKlvbALVL9in0qEWglQ?session=1&fife" height="200" width="auto" /><br><br>https://www.facebook.com/groups/jugger.toowoomba/]]></description>
+      <styleUrl>#icon-959-A61B4A</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/kuo3st3l0oc5a5ecoabjkveh1c/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALr9TihYbNe2DPVEn4QCJw1mvXCp_v33HmhPDK_uVUhNI3hkfC9bYEp1NgbTIuymO0-v20vKioXqSd401k8XDWt0fJlfHsVCyh9Oi8kK-6lxTKSpo6AOqtFux8I8zOV_pHxrI0JzQ0SmKTrzQfD459rWODPioN5VEK9x1Rk_UICnd_QNMCMKLtvdQ1wQqestphn5UlmTsaqk5zU4RVpouhPkiKqdf_y1dnjsNMhraRNrcJ_4K0mzQwZTEbHpeHK1jNVvcwFXMEiEKlvbALVL9in0qEWglQ?session=1&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          151.9549942,-27.561243,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Canberra</name>
+      <description><![CDATA[<img src="https://doc-14-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/j6oih8ipu0pm321pg89ja4d3sc/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALqEo6H2GlguIXCaRBl_XbuoXBayoxseGnDM6IQRT5BpzBiAnjlZxcEDytzFzYZEAEuq_LkDX4YKS4PiQy_gzrpJYK9FEydPa6UDcJhPieH7HBd5Sw6oalnGDo5Y1jHFJDFWHh-IPy4WAUL_Mz157YWI1b7ZYF8LLzsB1P785XqcZIOKGRglFZdqVsOa85v4IaEBtjQNxygzJoFY8H2MsrURt-OuWYR9UfUTRAUcyDcIC_LUGDSku3k-Bo_7RjDPr8B74W4HnojqFGMGWAJpIHt38NZOAQ?session=1&fife" height="200" width="auto" /><br><br>https://www.facebook.com/groups/juggercanberra/]]></description>
+      <styleUrl>#icon-959-A61B4A</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/j6oih8ipu0pm321pg89ja4d3sc/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALqEo6H2GlguIXCaRBl_XbuoXBayoxseGnDM6IQRT5BpzBiAnjlZxcEDytzFzYZEAEuq_LkDX4YKS4PiQy_gzrpJYK9FEydPa6UDcJhPieH7HBd5Sw6oalnGDo5Y1jHFJDFWHh-IPy4WAUL_Mz157YWI1b7ZYF8LLzsB1P785XqcZIOKGRglFZdqVsOa85v4IaEBtjQNxygzJoFY8H2MsrURt-OuWYR9UfUTRAUcyDcIC_LUGDSku3k-Bo_7RjDPr8B74W4HnojqFGMGWAJpIHt38NZOAQ?session=1&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          149.127388,-35.2865452,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brisbane Jugger</name>
+      <description><![CDATA[<img src="https://doc-04-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/ao7pb06r80om36i1g5din6k2nc/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALrYCiBLQInWYwHKvTjp2mF8F1V9XZ9P4TSuc9siHO7u0JIGRnysQE9FY140vpbI1WsTmukMvGVrCiBxhKihV3m8HuvWurSP01nSEeH_d7HDo-aW41-joNdt48XSFR-nSgAC_ILLpE307Yx0fZaWWO7G3rZpfXEWavG3Qwyy2-FNBsdy2ZGqHy4_AnL7Ba6RTrlW1JUvb4cbeuAaJxHf6SYjUC8oCiihtWdWGiyMGnZkcnRCMH23dHGGGpCX8AlyhMfG0Extv-nhfaT64rZ8rJI9qFwDCQ?session=1&fife" height="200" width="auto" /><br><br>https://www.facebook.com/groups/JuggerAustralis/]]></description>
+      <styleUrl>#icon-959-A61B4A</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/ao7pb06r80om36i1g5din6k2nc/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALrYCiBLQInWYwHKvTjp2mF8F1V9XZ9P4TSuc9siHO7u0JIGRnysQE9FY140vpbI1WsTmukMvGVrCiBxhKihV3m8HuvWurSP01nSEeH_d7HDo-aW41-joNdt48XSFR-nSgAC_ILLpE307Yx0fZaWWO7G3rZpfXEWavG3Qwyy2-FNBsdy2ZGqHy4_AnL7Ba6RTrlW1JUvb4cbeuAaJxHf6SYjUC8oCiihtWdWGiyMGnZkcnRCMH23dHGGGpCX8AlyhMfG0Extv-nhfaT64rZ8rJI9qFwDCQ?session=1&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          153.0517388,-27.4693636,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Melbourne Jugger</name>
+      <description><![CDATA[<img src="https://doc-00-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/rmkrhh7eq2n4sce4n80rkckcng/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALqHZ5SuedtNhonqyzSKKO_PVRstCZJH9ZCE9rzLFAOCuFSkfOn_-NsSlXdZUw1EhyuvH1ewBfWxQwCj60fJL0CVpeag6q80O407n-ank-VC4ID5Lvq7a1UjqYRpPzPIUpJtru9ngORUVcAuAXsV_LRvMVhHFX--tY50dSwJ_UvMJQsSxEsXJ8X3Nlf8sbmRiLjw_-LTqSXNO_fKzg2nEGNzBKHePBuX1VtVzHs3xJegUxUqfvuCoHYA8Ozf8ELF56Cpcqpk4T9sMWJCyN5-kZXFw5l4iQ?session=1&fife" height="200" width="auto" /><br><br>https://www.facebook.com/groups/swinburnejugger/]]></description>
+      <styleUrl>#icon-959-A61B4A</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/rmkrhh7eq2n4sce4n80rkckcng/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALqHZ5SuedtNhonqyzSKKO_PVRstCZJH9ZCE9rzLFAOCuFSkfOn_-NsSlXdZUw1EhyuvH1ewBfWxQwCj60fJL0CVpeag6q80O407n-ank-VC4ID5Lvq7a1UjqYRpPzPIUpJtru9ngORUVcAuAXsV_LRvMVhHFX--tY50dSwJ_UvMJQsSxEsXJ8X3Nlf8sbmRiLjw_-LTqSXNO_fKzg2nEGNzBKHePBuX1VtVzHs3xJegUxUqfvuCoHYA8Ozf8ELF56Cpcqpk4T9sMWJCyN5-kZXFw5l4iQ?session=1&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          145.0377274,-37.8225312,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Wollongong</name>
+      <description>https://www.facebook.com/groups/1559341514347688/</description>
+      <styleUrl>#icon-959-A61B4A</styleUrl>
+      <Point>
+        <coordinates>
+          150.8929682,-34.4254609,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Newcastle Jugger</name>
+      <description><![CDATA[<img src="https://doc-14-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/2947c419b6ttmoe47lnogp0ju0/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALoKpXpBCQMrdNgYhC9pNqGwHoFNckM-mH0XpLEF1kJqs1nsSFnzUolW1mcEz9FoNr3JhjFAF3PIXmZqJxVoSbgCPdZphRLazapc8TGPWUNkGeANmEmwFC8M5WlL8RSfa5TOJn92mHeGGBbhOPetUqqgD7834JS2YF_W6IGct87bCGRW5MHbYcLnev8W0yGU5liGvjfgZEH-5e7Lg1neUUOZr3WoY9QbRxxu7E7YP5obWYUUUM8Vy9PkOxvR1LOnyU1d5F8y0MPYzGBzsll1tL1IBJlZMA?session=1&fife" height="200" width="auto" /><br><br>https://www.facebook.com/groups/309242885911162/]]></description>
+      <styleUrl>#icon-959-A61B4A</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/2947c419b6ttmoe47lnogp0ju0/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALoKpXpBCQMrdNgYhC9pNqGwHoFNckM-mH0XpLEF1kJqs1nsSFnzUolW1mcEz9FoNr3JhjFAF3PIXmZqJxVoSbgCPdZphRLazapc8TGPWUNkGeANmEmwFC8M5WlL8RSfa5TOJn92mHeGGBbhOPetUqqgD7834JS2YF_W6IGct87bCGRW5MHbYcLnev8W0yGU5liGvjfgZEH-5e7Lg1neUUOZr3WoY9QbRxxu7E7YP5obWYUUUM8Vy9PkOxvR1LOnyU1d5F8y0MPYzGBzsll1tL1IBJlZMA?session=1&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          151.7774964,-32.9274365,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gympie Jugger
+</name>
+      <description>https://www.facebook.com/groups/1546928355609191/</description>
+      <styleUrl>#icon-959-A61B4A</styleUrl>
+      <Point>
+        <coordinates>
+          152.6592841,-26.1921895,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

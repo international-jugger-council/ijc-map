@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[USA & Canada]]></name>
+    <Style id="icon-503-FFFFFF-normal">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-FFFFFF-highlight">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-FFFFFF">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-FFFFFF-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-FFFFFF-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-959-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-959-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-959-FFFFFF-normal">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-FFFFFF-highlight">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-959-FFFFFF">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-FFFFFF-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-FFFFFF-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-960-FFFFFF-normal">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-960-FFFFFF-highlight">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-960-FFFFFF">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-960-FFFFFF-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-960-FFFFFF-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Jugger Halifax</name>
+      <description><![CDATA[<img src="https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/ldme6lqapt4cmuo1i943h39irg/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALr0zBJfBc6tmfPXOR3mieWXszsWLvbS7J14a6OsD_Yw52_7ihhB78XTVAcYaYIJYJm8GYhfpcciR846_8ss7v2H-6zDKcnhyYe4pgmTd4hp3PaRpDxjUIb7YtrnELth_J71ujLVgwFHQXF9IjNIm06DikVsdJ8JRCtNR87XzVwQF3OhYP_yecnDzkaO-B3Y_ztgjqiRfUSSGHktpocZFTOXZDjffKsWJa76GHHKy2Zkq_8wAuNF3v5LGRL5x9du36iKuw_n5Z4IpdVBjh7Nd43Ts_aFNg?session=1&fife" height="200" width="auto" /><br><br>https://www.facebook.com/juggerhalifax]]></description>
+      <styleUrl>#icon-959-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/ldme6lqapt4cmuo1i943h39irg/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALr0zBJfBc6tmfPXOR3mieWXszsWLvbS7J14a6OsD_Yw52_7ihhB78XTVAcYaYIJYJm8GYhfpcciR846_8ss7v2H-6zDKcnhyYe4pgmTd4hp3PaRpDxjUIb7YtrnELth_J71ujLVgwFHQXF9IjNIm06DikVsdJ8JRCtNR87XzVwQF3OhYP_yecnDzkaO-B3Y_ztgjqiRfUSSGHktpocZFTOXZDjffKsWJa76GHHKy2Zkq_8wAuNF3v5LGRL5x9du36iKuw_n5Z4IpdVBjh7Nd43Ts_aFNg?session=1&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -63.5792542,44.6510703,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Toronto</name>
+      <description>https://www.facebook.com/groups/JuggerToronto/</description>
+      <styleUrl>#icon-959-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -79.3858337,43.6489945,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Vancouver</name>
+      <description>https://www.facebook.com/juggervancouver</description>
+      <styleUrl>#icon-959-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -123.1148529,49.2608592,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Red Dirt Jugger Club</name>
+      <description>https://www.facebook.com/groups/114787848554225/</description>
+      <styleUrl>#icon-959-FFFFFF</styleUrl>
+      <Point>
+        <coordinates>
+          -97.5938009,35.5281317,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Inland Jugger Empire League</name>
+      <description>https://www.facebook.com/groups/316971551802028/</description>
+      <styleUrl>#icon-959-FFFFFF</styleUrl>
+      <Point>
+        <coordinates>
+          -119.2864609,46.2857494,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Colorado Jugger League</name>
+      <description><![CDATA[<img src="https://doc-0s-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/ibuqflqa5o8s8cch778mdc5afo/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALp8vjlX_cqGtjDjiCJWlRDsXg_3Rr7BpsD5UdBLQlqY9s6g6jfIm3qm5dXbYb5z1So8Tn-OzMNF0cq5XJtDwCOoxPnJu127IMZFiHKBm-3KZ7MIDC1S_cKFudrPqQTYssE__k_UEk9Y2kjIHLV4-ElnwtEtodzhG2FHgN1qxvcjGBAUiWy3d6ye9yRl0z9ziv679KjOngBn1pHYg6rTtwh_DdVoRCdc0L90xoNS9Fq_saYQVvZydLTEPm6zr_1TSRnjBvp5IKRbcsVGNctaAxFqqOPcdQ?session=1&fife" height="200" width="auto" /><br><br>https://www.facebook.com/groups/coloradojugger/]]></description>
+      <styleUrl>#icon-959-FFFFFF</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/ibuqflqa5o8s8cch778mdc5afo/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALp8vjlX_cqGtjDjiCJWlRDsXg_3Rr7BpsD5UdBLQlqY9s6g6jfIm3qm5dXbYb5z1So8Tn-OzMNF0cq5XJtDwCOoxPnJu127IMZFiHKBm-3KZ7MIDC1S_cKFudrPqQTYssE__k_UEk9Y2kjIHLV4-ElnwtEtodzhG2FHgN1qxvcjGBAUiWy3d6ye9yRl0z9ziv679KjOngBn1pHYg6rTtwh_DdVoRCdc0L90xoNS9Fq_saYQVvZydLTEPm6zr_1TSRnjBvp5IKRbcsVGNctaAxFqqOPcdQ?session=1&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -105.0663757,39.6701992,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger California</name>
+      <description>https://www.facebook.com/JuggerCalifornia</description>
+      <styleUrl>#icon-959-FFFFFF</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2771453,37.8179208,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carolina Aggressive Jugger Association</name>
+      <description>https://www.facebook.com/groups/cajajugger/</description>
+      <styleUrl>#icon-959-FFFFFF</styleUrl>
+      <Point>
+        <coordinates>
+          -78.9625167,33.6817825,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Ohio</name>
+      <description>https://www.facebook.com/jugger.ohio</description>
+      <styleUrl>#icon-959-FFFFFF</styleUrl>
+      <Point>
+        <coordinates>
+          -81.45401,39.4144466,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Tennessee</name>
+      <description>https://www.facebook.com/groups/JuggerTN/</description>
+      <styleUrl>#icon-959-FFFFFF</styleUrl>
+      <Point>
+        <coordinates>
+          -86.7796326,36.160053,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wyoming Jugger Club</name>
+      <description>https://www.facebook.com/groups/413808018720996/</description>
+      <styleUrl>#icon-959-FFFFFF</styleUrl>
+      <Point>
+        <coordinates>
+          -109.2369747,41.5906043,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Arizona</name>
+      <description>https://www.facebook.com/JuggerArizona</description>
+      <styleUrl>#icon-959-FFFFFF</styleUrl>
+      <Point>
+        <coordinates>
+          -112.0711899,33.4460526,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mississippi Aggro Jugger League</name>
+      <description>https://www.facebook.com/MississippiAggroJuggerLeague</description>
+      <styleUrl>#icon-959-FFFFFF</styleUrl>
+      <Point>
+        <coordinates>
+          -90.0744152,32.1988571,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Springfield MO Jugger</name>
+      <description>https://www.facebook.com/swmojugger/</description>
+      <styleUrl>#icon-959-FFFFFF</styleUrl>
+      <Point>
+        <coordinates>
+          -93.2955551,37.206816,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Florida</name>
+      <description>https://www.facebook.com/juggerflorida</description>
+      <styleUrl>#icon-959-FFFFFF</styleUrl>
+      <Point>
+        <coordinates>
+          -81.6560555,30.3229522,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bad Panda</name>
+      <description>https://www.facebook.com/groups/1044036452274895/</description>
+      <styleUrl>#icon-503-FFFFFF</styleUrl>
+      <Point>
+        <coordinates>
+          -122.6795197,45.5227061,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ursae Majoris</name>
+      <description>https://www.facebook.com/groups/JuggerUCB/</description>
+      <styleUrl>#icon-503-FFFFFF</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2731972,37.8714658,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SF Juggernauts</name>
+      <description>https://www.facebook.com/groups/1543315222652201/</description>
+      <styleUrl>#icon-503-FFFFFF</styleUrl>
+      <Point>
+        <coordinates>
+          -122.419281,37.7735642,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Juggers of the Wasteland</name>
+      <description>https://www.facebook.com/groups/134882559866761</description>
+      <styleUrl>#icon-960-FFFFFF</styleUrl>
+      <Point>
+        <coordinates>
+          -118.1490326,34.1515905,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Montana (Blitzbison)</name>
+      <description>https://www.facebook.com/groups/2013321212231267/</description>
+      <styleUrl>#icon-503-FFFFFF</styleUrl>
+      <Point>
+        <coordinates>
+          -108.524701,45.7867851,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

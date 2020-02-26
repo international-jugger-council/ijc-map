@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[Ireland & UK]]></name>
+    <Style id="icon-503-0BA9CC-normal">
+      <IconStyle>
+        <color>ffcca90b</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-0BA9CC-highlight">
+      <IconStyle>
+        <color>ffcca90b</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-0BA9CC">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-0BA9CC-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-0BA9CC-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-62AF44-normal">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-62AF44-highlight">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-62AF44">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-62AF44-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-62AF44-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-959-009D57-normal">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-009D57-highlight">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-959-009D57">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-009D57-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-009D57-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-959-B29189-normal">
+      <IconStyle>
+        <color>ff8991b2</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-B29189-highlight">
+      <IconStyle>
+        <color>ff8991b2</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-959-B29189">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-B29189-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-B29189-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Jugger Ireland</name>
+      <description><![CDATA[<img src="https://doc-0s-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/17leugatiekgfklaimhp87j598/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALo27QLZFsr9OKCq1oHKcifw4xpdAPKZ9g-e4hv1qMx63BtK9z8tqbEuAciprX035m_kfSl-co89xgXIRKkTGBFGmACHpjMiWhDzhjQgB7R5h6z72kO3XJdWV9ZT6j1Hf4xH9nf1fN_deOmpJmLaW8D6YUxYW3Yt_6X6t-BeEjVcyOzN-0fyC92zPWhe0PhSAg821r13DNgg5Wcr9k622j9QQoCyIignHINhRyy2ZPWNF0Zlmh2ppxo4YpzQqDD_I3BO3nmMPXK5JuCCA3JsNMMHYN3PNg?session=1&fife" height="200" width="auto" /><br><br>http://www.juggerireland.com]]></description>
+      <styleUrl>#icon-959-009D57</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/17leugatiekgfklaimhp87j598/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALo27QLZFsr9OKCq1oHKcifw4xpdAPKZ9g-e4hv1qMx63BtK9z8tqbEuAciprX035m_kfSl-co89xgXIRKkTGBFGmACHpjMiWhDzhjQgB7R5h6z72kO3XJdWV9ZT6j1Hf4xH9nf1fN_deOmpJmLaW8D6YUxYW3Yt_6X6t-BeEjVcyOzN-0fyC92zPWhe0PhSAg821r13DNgg5Wcr9k622j9QQoCyIignHINhRyy2ZPWNF0Zlmh2ppxo4YpzQqDD_I3BO3nmMPXK5JuCCA3JsNMMHYN3PNg?session=1&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -6.233325,53.3622182,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Setanta Jugger Club</name>
+      <description><![CDATA[<img src="https://doc-0o-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/d35r8t6am9hfmqkkcdajin4o7s/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALqOGF12MOKj2SldxE4kUfjY71cCmzLTORfGQOwfOw3cPSOlXl_-_q2rlWox-MpF0ov6jJELFRxJ_iz5dA3UrnVLO0QuPWAdHKcKp60wrQP42_BRISIeJ77nCYKEkekark_rLID7r6iuNOC8Xisi4HcfzQHS0fzeIMtkzg-Z5kKuc83e1vCylxxgDy3MLezWCbOt4Se0zH1d_dPoktzxGw6tQOjxjRVILULw7NuCsZt-0BtpXD1jp40hCtU6ez8cQ3wUYL7i5YmUtooqZMyFtaCqtIPK9g?session=1&fife" height="200" width="auto" /><br><br>https://www.facebook.com/setantajuggerclub/]]></description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/d35r8t6am9hfmqkkcdajin4o7s/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALqOGF12MOKj2SldxE4kUfjY71cCmzLTORfGQOwfOw3cPSOlXl_-_q2rlWox-MpF0ov6jJELFRxJ_iz5dA3UrnVLO0QuPWAdHKcKp60wrQP42_BRISIeJ77nCYKEkekark_rLID7r6iuNOC8Xisi4HcfzQHS0fzeIMtkzg-Z5kKuc83e1vCylxxgDy3MLezWCbOt4Se0zH1d_dPoktzxGw6tQOjxjRVILULw7NuCsZt-0BtpXD1jp40hCtU6ez8cQ3wUYL7i5YmUtooqZMyFtaCqtIPK9g?session=1&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -6.2358141,53.3600285,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rampage Jugger</name>
+      <description><![CDATA[<img src="https://doc-14-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/51t779a8du33v2l1qsinpvs1qg/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALrKxEfQSSkG60rAVOtaL3xZ08q7irb-iItaMbXY9gb5MYQUspcpjLBsRe7jcvYP0CdRzzj20CqqZHAHWZbXB3nhuEJ9eGFq-mAAo7PmdoqsVj6vxaiKuTEWdOXEEPfAY2X-JG5yhCr-lzFCXMO0vfssQAztm1R2Q-_4tTc0RWDIWu0c1QTJk_BTH1RoT1k72144Q1gMUQ6b8ZMn8CjCZFqOwBlNM83Zk2zERqkR0EfEadIZPLI8V4Y2vE1aAEhLy8kddvGzwWbJoSQkD8odUo435vfdFw?session=1&fife" height="200" width="auto" /><br><br>https://www.facebook.com/rampagejugger/]]></description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/51t779a8du33v2l1qsinpvs1qg/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALrKxEfQSSkG60rAVOtaL3xZ08q7irb-iItaMbXY9gb5MYQUspcpjLBsRe7jcvYP0CdRzzj20CqqZHAHWZbXB3nhuEJ9eGFq-mAAo7PmdoqsVj6vxaiKuTEWdOXEEPfAY2X-JG5yhCr-lzFCXMO0vfssQAztm1R2Q-_4tTc0RWDIWu0c1QTJk_BTH1RoT1k72144Q1gMUQ6b8ZMn8CjCZFqOwBlNM83Zk2zERqkR0EfEadIZPLI8V4Y2vE1aAEhLy8kddvGzwWbJoSQkD8odUo435vfdFw?session=1&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -6.2140989,53.3358646,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Savage Jugger</name>
+      <description>https://www.facebook.com/SavageJugger/</description>
+      <styleUrl>#icon-503-0BA9CC</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1492609,51.4584523,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Winchester</name>
+      <description>https://www.facebook.com/groups/WinchesterJugger/</description>
+      <styleUrl>#icon-959-B29189</styleUrl>
+      <Point>
+        <coordinates>
+          -1.3157844,51.0612494,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Legion Jugger Club</name>
+      <description><![CDATA[<img src="https://doc-0c-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/jn34lvvnt5n5b3mbop0lhegglg/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALqQo9TMEcv6lTl4kNWrdw8XETZjfyKgHGW4iJJm_OYPRziExFtgU1m0rnPzRHNVFQU_g96C8t4BVBvxvXYCUkGw3nBxgoKhCvZD3ZxQg5i1ehcqCU19aQHjL80ekYmowoxE4uXhQUEaevxIGnJVoZG23fb1rs-8746MAsY-hq73GKykYVOBQJEe0Fa6vhdkbc_qwdzmtTrA-fEctEQZC3t4SQT_ZMbQxdpLXqVm0GkMcogeQrR07xeTaNhNMmO1n1Yt1nmsGd9AkTKlSWzEU2zrJoeE3w?session=1&fife" height="200" width="auto" /><br><br>https://www.facebook.com/legionjuggerclub/]]></description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/jn34lvvnt5n5b3mbop0lhegglg/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALqQo9TMEcv6lTl4kNWrdw8XETZjfyKgHGW4iJJm_OYPRziExFtgU1m0rnPzRHNVFQU_g96C8t4BVBvxvXYCUkGw3nBxgoKhCvZD3ZxQg5i1ehcqCU19aQHjL80ekYmowoxE4uXhQUEaevxIGnJVoZG23fb1rs-8746MAsY-hq73GKykYVOBQJEe0Fa6vhdkbc_qwdzmtTrA-fEctEQZC3t4SQT_ZMbQxdpLXqVm0GkMcogeQrR07xeTaNhNMmO1n1Yt1nmsGd9AkTKlSWzEU2zrJoeE3w?session=1&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -6.3026762,53.3491744,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

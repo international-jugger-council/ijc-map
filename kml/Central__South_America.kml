@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[Central & South America]]></name>
+    <Style id="icon-503-0BA9CC-normal">
+      <IconStyle>
+        <color>ffcca90b</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-0BA9CC-highlight">
+      <IconStyle>
+        <color>ffcca90b</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-0BA9CC">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-0BA9CC-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-0BA9CC-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-93D7E8-normal">
+      <IconStyle>
+        <color>ffe8d793</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-93D7E8-highlight">
+      <IconStyle>
+        <color>ffe8d793</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-93D7E8">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-93D7E8-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-93D7E8-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-9FC3FF-normal">
+      <IconStyle>
+        <color>ffffc39f</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-9FC3FF-highlight">
+      <IconStyle>
+        <color>ffffc39f</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-9FC3FF">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-9FC3FF-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-9FC3FF-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-CDDC39-normal">
+      <IconStyle>
+        <color>ff39dccd</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-CDDC39-highlight">
+      <IconStyle>
+        <color>ff39dccd</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-CDDC39">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-CDDC39-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-CDDC39-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-E6EEA3-normal">
+      <IconStyle>
+        <color>ffa3eee6</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-E6EEA3-highlight">
+      <IconStyle>
+        <color>ffa3eee6</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-E6EEA3">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-E6EEA3-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-E6EEA3-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-959-0BA9CC-normal">
+      <IconStyle>
+        <color>ffcca90b</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-0BA9CC-highlight">
+      <IconStyle>
+        <color>ffcca90b</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-959-0BA9CC">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-0BA9CC-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-0BA9CC-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-959-93D7E8-normal">
+      <IconStyle>
+        <color>ffe8d793</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-93D7E8-highlight">
+      <IconStyle>
+        <color>ffe8d793</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-959-93D7E8">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-93D7E8-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-93D7E8-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-959-9FC3FF-normal">
+      <IconStyle>
+        <color>ffffc39f</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-9FC3FF-highlight">
+      <IconStyle>
+        <color>ffffc39f</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-959-9FC3FF">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-9FC3FF-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-9FC3FF-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-959-B7DBAB-normal">
+      <IconStyle>
+        <color>ffabdbb7</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-B7DBAB-highlight">
+      <IconStyle>
+        <color>ffabdbb7</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-959-B7DBAB">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-B7DBAB-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-B7DBAB-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-959-CDDC39-normal">
+      <IconStyle>
+        <color>ff39dccd</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-CDDC39-highlight">
+      <IconStyle>
+        <color>ff39dccd</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-959-CDDC39">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-CDDC39-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-CDDC39-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Jugger Chihuahua</name>
+      <description>https://www.facebook.com/JuggerChihuahua/</description>
+      <styleUrl>#icon-959-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -106.0709381,28.6309388,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Juggers Del Puerto Mexico</name>
+      <description>https://www.facebook.com/pages/Juggers-Del-Puerto-Mexico/425762720852605</description>
+      <styleUrl>#icon-959-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -96.1348342,19.1706264,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger en Oaxaca</name>
+      <description>https://www.facebook.com/juggeroaxaca/</description>
+      <styleUrl>#icon-959-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -96.7239761,17.0590821,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Ciudad Juarez</name>
+      <description>https://www.facebook.com/JuggerCiudadJuarez</description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -106.4245605,31.7077239,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Liga Costa Rica</name>
+      <description>https://www.facebook.com/COMUNIDADJUGGER</description>
+      <styleUrl>#icon-959-9FC3FF</styleUrl>
+      <Point>
+        <coordinates>
+          -84.0891838,9.9279333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nox Societatem</name>
+      <description>https://www.facebook.com/Jugger-Nox-Societatem-498107547044700/?fref=ts</description>
+      <styleUrl>#icon-503-9FC3FF</styleUrl>
+      <Point>
+        <coordinates>
+          -84.1462183,9.9203663,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger en la Sabana</name>
+      <description>https://www.facebook.com/JuggerSabana/</description>
+      <styleUrl>#icon-503-9FC3FF</styleUrl>
+      <Point>
+        <coordinates>
+          -84.1063499,9.9346122,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Comunidad Speculum</name>
+      <description>https://www.facebook.com/SpeculumAlae/</description>
+      <styleUrl>#icon-959-93D7E8</styleUrl>
+      <Point>
+        <coordinates>
+          -74.0746308,4.5951189,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Actaeonis Grex</name>
+      <description>https://www.facebook.com/ActaeonisGrex</description>
+      <styleUrl>#icon-959-93D7E8</styleUrl>
+      <Point>
+        <coordinates>
+          -74.0798664,4.6195017,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Enelle</name>
+      <description>https://www.facebook.com/enellejugger</description>
+      <styleUrl>#icon-503-93D7E8</styleUrl>
+      <Point>
+        <coordinates>
+          -74.0900803,4.5969583,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lycaon Pictus</name>
+      <description>https://www.facebook.com/LycaonPictusJuggerTeam/</description>
+      <styleUrl>#icon-503-93D7E8</styleUrl>
+      <Point>
+        <coordinates>
+          -74.0790939,4.6335747,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oh So Pretentious</name>
+      <description>https://www.facebook.com/OhSoPretentious/</description>
+      <styleUrl>#icon-503-93D7E8</styleUrl>
+      <Point>
+        <coordinates>
+          -74.0897369,4.6342592,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dragon Fly </name>
+      <description>https://www.facebook.com/dragonflyjugger/</description>
+      <styleUrl>#icon-503-93D7E8</styleUrl>
+      <Point>
+        <coordinates>
+          -74.0708542,4.6277573,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Danse Macabre</name>
+      <description>https://www.facebook.com/lacomarcajugger/</description>
+      <styleUrl>#icon-503-93D7E8</styleUrl>
+      <Point>
+        <coordinates>
+          -74.0928268,4.6147535,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gae Bulg</name>
+      <description>https://www.facebook.com/G%C3%A1e-bulg-Jugger-Team-1653297711569782/?fref=ts</description>
+      <styleUrl>#icon-503-93D7E8</styleUrl>
+      <Point>
+        <coordinates>
+          -74.0976334,4.6092781,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quimeras</name>
+      <description>https://www.facebook.com/CerverusJugger/</description>
+      <styleUrl>#icon-503-93D7E8</styleUrl>
+      <Point>
+        <coordinates>
+          -74.1044998,4.6274151,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Liga Brasileira De Jugger</name>
+      <description>https://www.facebook.com/groups/ligabrasileiradejugger/</description>
+      <styleUrl>#icon-959-B7DBAB</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6349029,-23.5503758,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger La Plata</name>
+      <description>https://www.facebook.com/groups/juggerlaplata/</description>
+      <styleUrl>#icon-959-0BA9CC</styleUrl>
+      <Point>
+        <coordinates>
+          -57.9763984,-34.9215488,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Santa Fe</name>
+      <description>https://www.facebook.com/groups/jugarla/</description>
+      <styleUrl>#icon-959-0BA9CC</styleUrl>
+      <Point>
+        <coordinates>
+          -60.7027244,-31.6314601,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger MDQ</name>
+      <description>https://www.facebook.com/JuggerMDQ/</description>
+      <styleUrl>#icon-503-0BA9CC</styleUrl>
+      <Point>
+        <coordinates>
+          -57.581749,-37.9811453,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Berserker Jugger Team</name>
+      <description>No Page As of Yet</description>
+      <styleUrl>#icon-503-0BA9CC</styleUrl>
+      <Point>
+        <coordinates>
+          -57.9171753,-34.921971,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ocho Herraduras Jugger</name>
+      <description>https://www.facebook.com/Ocho-Herraduras-Jugger-1377836122537845/</description>
+      <styleUrl>#icon-503-0BA9CC</styleUrl>
+      <Point>
+        <coordinates>
+          -57.9638648,-34.8994354,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>White Lotus</name>
+      <description>No Page as of Yet</description>
+      <styleUrl>#icon-503-0BA9CC</styleUrl>
+      <Point>
+        <coordinates>
+          -58.3690739,-34.6261454,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Triskel Jugger Team</name>
+      <description>https://www.facebook.com/Triskel-Jugger-Team-662010537262044/</description>
+      <styleUrl>#icon-503-0BA9CC</styleUrl>
+      <Point>
+        <coordinates>
+          -57.948761,-34.9523676,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ignis Fatuus</name>
+      <description>No Page as of Yet</description>
+      <styleUrl>#icon-503-0BA9CC</styleUrl>
+      <Point>
+        <coordinates>
+          -58.3701038,-34.6277698,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Noa</name>
+      <description>https://www.facebook.com/ligajuggernoa/</description>
+      <styleUrl>#icon-503-0BA9CC</styleUrl>
+      <Point>
+        <coordinates>
+          -65.2996445,-24.1874738,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Norte</name>
+      <description>https://m.facebook.com/profile.php?id=1513225445640713</description>
+      <styleUrl>#icon-503-0BA9CC</styleUrl>
+      <Point>
+        <coordinates>
+          -58.76544,-34.5151145,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Trelew</name>
+      <description>https://m.facebook.com/groups/1652521345021494?_rdr</description>
+      <styleUrl>#icon-503-0BA9CC</styleUrl>
+      <Point>
+        <coordinates>
+          -65.3077126,-43.249454,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Noroeste</name>
+      <description>https://www.facebook.com/Jugger-Noroeste-1623959827820929/</description>
+      <styleUrl>#icon-503-0BA9CC</styleUrl>
+      <Point>
+        <coordinates>
+          -58.6752319,-34.4635418,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger C.A.B.A.</name>
+      <description>https://m.facebook.com/juggersaavedra/</description>
+      <styleUrl>#icon-503-0BA9CC</styleUrl>
+      <Point>
+        <coordinates>
+          -58.381691,-34.6043891,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Saavedra </name>
+      <description>jonyx_sp@hotmail.com</description>
+      <styleUrl>#icon-503-0BA9CC</styleUrl>
+      <Point>
+        <coordinates>
+          -58.3940506,-34.6039652,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Liga Uruguaya de Jugger</name>
+      <description>https://www.facebook.com/ligauruguayadejugger/</description>
+      <styleUrl>#icon-503-E6EEA3</styleUrl>
+      <Point>
+        <coordinates>
+          -56.1586736,-34.8935771,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Caballeros de la Llanura</name>
+      <description>www.facebook.com/Caballeros-de-la-Llanura-Jugger-team-182462185123264/</description>
+      <styleUrl>#icon-503-E6EEA3</styleUrl>
+      <Point>
+        <coordinates>
+          -56.205181,-34.86044,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mandarina Ninja</name>
+      <description>https://www.facebook.com/mandarinaninja/</description>
+      <styleUrl>#icon-503-E6EEA3</styleUrl>
+      <Point>
+        <coordinates>
+          -56.1382638,-34.9107838,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cerverus</name>
+      <description>https://www.facebook.com/CerverusJugger/</description>
+      <styleUrl>#icon-503-93D7E8</styleUrl>
+      <Point>
+        <coordinates>
+          -74.0784073,4.6684784,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Liga X Jugger</name>
+      <description>https://www.facebook.com/LigaXjugger/</description>
+      <styleUrl>#icon-503-93D7E8</styleUrl>
+      <Point>
+        <coordinates>
+          -74.0701675,4.6441829,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Team Raijin</name>
+      <description>https://www.facebook.com/Jugger-Team-Raijin-908251995989805</description>
+      <styleUrl>#icon-503-93D7E8</styleUrl>
+      <Point>
+        <coordinates>
+          -74.0897369,4.647947,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

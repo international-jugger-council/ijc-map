@@ -1,0 +1,1534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Jugger Clubs and Associations</name>
+    <Style id="icon-503-7C3592-normal">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-7C3592-highlight">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-7C3592">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-7C3592-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-7C3592-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-93D7E8-normal">
+      <IconStyle>
+        <color>ffe8d793</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-93D7E8-highlight">
+      <IconStyle>
+        <color>ffe8d793</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-93D7E8">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-93D7E8-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-93D7E8-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-A61B4A-normal">
+      <IconStyle>
+        <color>ff4a1ba6</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-A61B4A-highlight">
+      <IconStyle>
+        <color>ff4a1ba6</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-A61B4A">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-A61B4A-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-A61B4A-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-A7B5D7-normal">
+      <IconStyle>
+        <color>ffd7b5a7</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-A7B5D7-highlight">
+      <IconStyle>
+        <color>ffd7b5a7</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-A7B5D7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-A7B5D7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-A7B5D7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-D698AD-normal">
+      <IconStyle>
+        <color>ffad98d6</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-D698AD-highlight">
+      <IconStyle>
+        <color>ffad98d6</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-D698AD">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-D698AD-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-D698AD-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-F8971B-normal">
+      <IconStyle>
+        <color>ff1b97f8</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-F8971B-highlight">
+      <IconStyle>
+        <color>ff1b97f8</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-F8971B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-F8971B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-F8971B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-F8971B-nodesc-normal">
+      <IconStyle>
+        <color>ff1b97f8</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-F8971B-nodesc-highlight">
+      <IconStyle>
+        <color>ff1b97f8</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-503-F8971B-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-F8971B-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-F8971B-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-959-CCCCCC-normal">
+      <IconStyle>
+        <color>ffcccccc</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-CCCCCC-highlight">
+      <IconStyle>
+        <color>ffcccccc</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-959-CCCCCC">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-CCCCCC-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-CCCCCC-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-959-F8971B-normal">
+      <IconStyle>
+        <color>ff1b97f8</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-F8971B-highlight">
+      <IconStyle>
+        <color>ff1b97f8</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-959-F8971B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-F8971B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-F8971B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Aixcalibur</name>
+      <description>https://www.facebook.com/aixcalibur/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          6.0836792,50.7752787,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NOX</name>
+      <description>https://www.facebook.com/pages/NOX/363888147077610</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          13.3110523,52.4747821,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Die verstörten Zernichter</name>
+      <styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.95335479999994,49.7913044,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Affen Mit Waffen</name>
+      <description>http://www.jsv-sulzbach.de/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          11.7520238,49.4951972,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ahle Säcke</name>
+      <description>https://www.facebook.com/ahlesaeckerof</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          9.7277069,50.9959586,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Anima Equorum</name>
+      <description>https://www.facebook.com/animaequorum</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          11.9694329,51.4566276,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Team Armageddon</name>
+      <description>http://jugger-nbg.jimdo.com/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          11.0707211,49.4516108,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Awesome Pirates</name>
+      <description>https://www.facebook.com/groups/266826353342617/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          7.4670982,53.2354274,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moonwalk to Pluto</name>
+      <description>https://www.facebook.com/groups/1401629160052922/?fref=nf</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          9.9327994,51.5598773,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blutgrätsche</name>
+      <description>https://hanseaticjugger.de/ and https://www.facebook.com/HanseaticJugger/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          10.6831742,53.864777,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cervisia Ultima e.V</name>
+      <description>https://www.facebook.com/CervisiaUltima</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          6.7062627,51.3883406,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chimaera Brunsviga</name>
+      <description>https://www.facebook.com/ChimaeraBrunsviga</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          10.5268336,52.2674482,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cottbus Klatscher</name>
+      <description>https://www.facebook.com/pages/Cottbus-Klatscher/180312941992310</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          14.3349695,51.7555551,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Lüneburg ex.V.</name>
+      <description>https://www.facebook.com/groups/172384752804384/</description>
+      <styleUrl>#icon-959-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          10.4088592,53.2465224,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CVJM Jugger Coswig</name>
+      <description>https://www.facebook.com/JuggerCoswig</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          13.5784363,51.1297072,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Darkwing Jugg</name>
+      <description>https://www.facebook.com/JuggerArnsberg</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.0554676,51.4079333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger in Saarbrücken</name>
+      <description>https://www.facebook.com/groups/Juggerhood/</description>
+      <styleUrl>#icon-959-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          7.0006513,49.2285914,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Marburg</name>
+      <description>https://www.facebook.com/groups/346709222048391/</description>
+      <styleUrl>#icon-959-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.7692141,50.8003475,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Die Kuhdorf-Vereinigung</name>
+      <description>https://www.facebook.com/KuhdorfVereinigung</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.0940378,50.6947451,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Die Leere Menge</name>
+      <description>https://www.facebook.com/dieleeremenge</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          13.395145,54.0894526,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger e.V. Waidhaus</name>
+      <description>Associated Teams : Drachenblut  https://www.facebook.com/juggerwaidhaus</description>
+      <styleUrl>#icon-959-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          12.4956287,49.6416853,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Falco Jugger Berlin</name>
+      <description>https://www.facebook.com/pages/Falco-Jugger-Berlin/149799265107595</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          13.302126,52.4695276,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fischkoppkrieger Jugger Kiel</name>
+      <description>https://www.facebook.com/fischkoppkrieger</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          10.1518607,54.3077608,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Five Finger Death Pompfer</name>
+      <description>https://www.facebook.com/pages/Five-Finger-Death-Pompfer/395602110564995</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          10.4539633,50.7228458,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fläminger Bumchucks</name>
+      <description>https://www.facebook.com/FlamingerBumchucks</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          12.5944949,52.1424963,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Flying Juggmen</name>
+      <description>https://www.facebook.com/TheFlyingJuggmen</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          7.0965028,50.7281297,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oldenburger Keiler eV</name>
+      <description>https://www.facebook.com/pages/Oldenburger-Keiler-eV/176412039080677</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.2413554,53.1382948,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Dachau</name>
+      <description>https://www.facebook.com/groups/338582279549703/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          11.435287,48.26127,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grünanlagen Guerilla</name>
+      <description>https://www.facebook.com/pages/Gr%C3%BCnanlagen-Guerilla/160552890699146</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          13.3180905,52.4700243,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gallier - Jugger Kaltbrunn</name>
+      <description>https://www.facebook.com/GallierKaltbrunn</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.2967377,48.2909601,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gossenhauer</name>
+      <description>https://www.facebook.com/pages/Gossenhauer-Freiburg/505513702883908</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          7.8416634,47.998279,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hannover Living Undeads</name>
+      <description>https://www.facebook.com/pages/Hannover-Living-Undeads/426648014109411</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          9.7328568,52.3711713,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Heidelberg Hobbitz</name>
+      <description>http://www.hobbitz.de/blog/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.6710024,49.3982112,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugg - the Ripper</name>
+      <description>https://www.facebook.com/jugg.ripper</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          7.4686861,51.3686994,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger in Ausberg</name>
+      <description>https://www.facebook.com/juggeraugsburg</description>
+      <styleUrl>#icon-959-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          10.8960342,48.3653737,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tackle Tiger - Jugger in Karlsruhe</name>
+      <description>https://www.facebook.com/tackletiger</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.3980179,49.0056727,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Haufen Bochum</name>
+      <description>https://www.facebook.com/JuggerHaufenBochum</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          7.2126103,51.481864,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Juggernauts</name>
+      <description>https://www.facebook.com/groups/OrangeJuggernauts/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          11.0128197,49.589223,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dropkick Cologne - Jugger in Köln</name>
+      <description>https://www.facebook.com/jugger.in.koeln/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          6.9605255,50.9357146,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugglers Jugg</name>
+      <description>https://www.facebook.com/pages/Jugglers-Jugg/363363587082446</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          11.9653988,51.4565742,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jukk|er Schwaikheim</name>
+      <description>https://www.facebook.com/pages/Jukker-Schwaikheim/111616105634877</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          9.3521118,48.8724073,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kamikaze Eulen</name>
+      <description><![CDATA[https://www.facebook.com/victim.rethwisch/<br>http://www.vfl-rethwisch.de/jugger/]]></description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          10.4413462,53.7826388,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Hamburg</name>
+      <description>Associated teams : Torpedo, Torpedo Baam, Last Man Standing https://www.facebook.com/pages/Jugger-Hamburg/267769903236636</description>
+      <styleUrl>#icon-959-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          10.012579,53.5968346,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1. Jugger-Club Hagen e.V.</name>
+      <description>https://www.facebook.com/MadMonkeys</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          7.4699628,51.3717469,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mainzer Marodeure</name>
+      <description>https://www.facebook.com/Mainzer-Marodeure-1471410609760958/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.2534791,49.9919049,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Munich Monks</name>
+      <description>https://www.facebook.com/pages/M-Jugger-Juggern-in-M%C3%BCnchen/351312038290495</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          11.5703202,48.1301218,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pader Bears - Juggerteam Paderborn</name>
+      <description>https://www.facebook.com/PaderBears</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.761425,51.7188401,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Phoenix Marburg</name>
+      <description>https://www.facebook.com/PhoenixMarburg</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.7643433,50.7986117,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pig Pile</name>
+      <description>https://www.facebook.com/pages/Pig-Pile/231211513671133</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          7.4710464,51.3667703,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pink Pain</name>
+      <description>https://www.facebook.com/pages/Pink-Pain/498708653551726</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.6524201,49.8716275,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pompfenjäger</name>
+      <description>https://www.facebook.com/Pompfenjaeger</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          13.3911324,54.0864824,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pompfritz</name>
+      <description>https://www.facebook.com/Pompfritz</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          7.1632254,51.2625862,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rigor Mortis</name>
+      <description>http://jugger.de/teams/juggerteams-berlin.php  http://www.tib1848ev.de/sportarten/jugger/ansprechpartner/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          13.4076012,52.4830644,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hornets TSV Butzbach / Jugger Butzbach</name>
+      <description>https://www.facebook.com/JuggerButzbach</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.6694146,50.4344385,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>S.P.A.T. Jugger Villingen</name>
+      <description>https://www.facebook.com/JuggerVillingen</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.4493875,48.0578896,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Münster e.V.</name>
+      <description>https://www.facebook.com/pages/Jugger-M%C3%BCnster-eV/349917315020918</description>
+      <styleUrl>#icon-959-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          7.6286316,51.9597114,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Bad Oeynhausen</name>
+      <description>https://www.facebook.com/JuggerBadOeynhausen</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.8020659,52.2061865,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skull</name>
+      <description>https://www.facebook.com/pages/Skull/577673718950073</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          13.3079624,52.4582061,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sonnenwende - Jugger</name>
+      <description>https://www.facebook.com/SonnenwendeJugger</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          13.328991,52.4623376,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SaarBastion</name>
+      <styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          6.75228649999997,49.3134606,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JUGGER IN HANNOVER</name>
+      <description>Associated Teams : Living Undeads, Spalter  http://www.hannover-jugger.de/joomla/</description>
+      <styleUrl>#icon-959-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          9.7213555,52.375442,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sturmwölfe - Jugger in Bielefeld</name>
+      <description>https://www.facebook.com/sturmwoelfe</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.5299397,52.0300003,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unicorns of Doom</name>
+      <styleUrl>#icon-503-F8971B-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          7.3192627,49.288796,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Weserkraken - Jugger Bremen</name>
+      <description>https://www.facebook.com/JuggerBremen</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.8019371,53.0785588,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Victim</name>
+      <description><![CDATA[https://www.facebook.com/victim.rethwisch/<br>http://www.vfl-rethwisch.de/jugger/]]></description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          10.4426338,53.782613,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Erfurt</name>
+      <description>https://www.facebook.com/juggererfurt/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          11.02988,50.9847679,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Giants Hohegeiß</name>
+      <description>https://www.facebook.com/JuggerGiants/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          10.6106902,51.727839,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Without Rules Jugger Rotenburg</name>
+      <description>https://www.facebook.com/pages/Without-Rules-Jugger-Rotenburg/634220579938464</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          9.3990826,53.1067143,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Legion Kreis Olpe</name>
+      <description>https://www.facebook.com/pages/Jugger-Legion-Kreis-Olpe/455548991222603</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          7.8502464,51.0281971,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Schädelschwenker</name>
+      <description>https://www.juggersportsaarpfalz.de/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          7.3196918,49.2888169,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger-Verein Ahaus e.v.</name>
+      <description>https://www.facebook.com/jugger.ahaus</description>
+      <styleUrl>#icon-959-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          6.9220734,52.0290497,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Zwickau</name>
+      <description>https://www.facebook.com/JuggerZwickau/</description>
+      <styleUrl>#icon-959-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          12.477808,50.7122217,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger NT</name>
+      <description>https://www.facebook.com/pages/Jugger-Nt/190314434327344</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          9.3443656,48.6223143,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Club Mannheim</name>
+      <description>https://www.facebook.com/JuggerClubMannheim</description>
+      <styleUrl>#icon-959-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.4630776,49.4879216,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Forrest Jugg</name>
+      <description>https://www.facebook.com/pages/Forrest-Jugg/394436274040780</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          7.8837419,50.9046465,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zonenkinder</name>
+      <description>https://www.facebook.com/pages/Zonenkinder/224701517588314</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          11.5909625,50.9264643,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Helden Bamberg</name>
+      <description>https://www.facebook.com/JuggerHeldenBamberg</description>
+      <styleUrl>#icon-959-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          10.8152032,49.8399891,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger beim TFC Kaiserslautern Esox Lucius </name>
+      <description>https://www.facebook.com/Jugger.Esox.Lucius/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          7.7401256,49.4309054,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Team Waldmeister Lollar</name>
+      <description>https://www.facebook.com/pages/Jugger-Team-Waldmeister-Lollar/293968940774975</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.7060643,50.6475557,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Stuttgart</name>
+      <description>https://www.facebook.com/pages/Jugger-Stuttgart/158046564258157</description>
+      <styleUrl>#icon-959-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          9.1773606,48.7772341,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lahnveilchen Gießen</name>
+      <description>https://www.facebook.com/pages/Lahnveilchen-Gie%C3%9Fen/295641173946084</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.6788559,50.5830186,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blackthorn Jugger Club</name>
+      <description><![CDATA[<img src="https://doc-04-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/maq7s1a6q2tjd723qa5i5976j4/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALrxyIa4zBo56Hn5-jUk4BPElHN4bRyLTm50fCnWHkP_EwyBd_n-uBSo8PPjpPGSgpB22j7d1vmX4K8sRCKBziNRpZLSN47ZqkKQ043Hr-Z_qRM6Dlj0opFFgcmis_oKFjVCHqoWRKfEVuoWcmfH83SKtZ_fDiSsLPPmwwADcwS3nM2YFvjyKB3EjEmiwJU8QvzQ4wWLVJvUOvJ6WvHApyCq8J5zrx69hnPFU9LBVLmg1WpbarLZY7PhyamjkPZAT3eC8D8dc1LDna9m7Du1p2YuZd5v5Q?session=1&fife" height="200" width="auto" /><br><br>https://www.facebook.com/Blackthornjuggerclub/]]></description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-b0-mymaps.googleusercontent.com/untrusted/hostedimage/glq0ertkjq4pfspe462v75g0i8/maq7s1a6q2tjd723qa5i5976j4/1573214400000/9FnDH1sQNa5OyRurRtSi3XhS4vWlfz6Y/07371843970532912375/1AF2TALrxyIa4zBo56Hn5-jUk4BPElHN4bRyLTm50fCnWHkP_EwyBd_n-uBSo8PPjpPGSgpB22j7d1vmX4K8sRCKBziNRpZLSN47ZqkKQ043Hr-Z_qRM6Dlj0opFFgcmis_oKFjVCHqoWRKfEVuoWcmfH83SKtZ_fDiSsLPPmwwADcwS3nM2YFvjyKB3EjEmiwJU8QvzQ4wWLVJvUOvJ6WvHApyCq8J5zrx69hnPFU9LBVLmg1WpbarLZY7PhyamjkPZAT3eC8D8dc1LDna9m7Du1p2YuZd5v5Q?session=1&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          6.7950439,51.2253779,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger-Clausthal</name>
+      <description>https://www.facebook.com/JuggerClausthal</description>
+      <styleUrl>#icon-959-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          10.2523792,51.7530579,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hurricane Blades Jugger Bingen</name>
+      <description>https://www.facebook.com/HurricaneBlades/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          7.8844929,49.9698002,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Fleesenseeschule Malchow</name>
+      <description>No contact page yet.</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          12.4215889,53.4786224,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blue Fangs - FFO</name>
+      <description>https://www.facebook.com/pages/Blue-Fangs-FFO/146044288896206</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          14.5513058,52.3463513,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger e.V. Berlin</name>
+      <description>https://www.facebook.com/JuggerBerlin</description>
+      <styleUrl>#icon-959-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          13.3916473,52.4727431,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Rostock</name>
+      <description>https://www.facebook.com/jugger.rostock</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          12.0995951,54.0924856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Leipziger Nachtwache</name>
+      <description>https://www.facebook.com/LeipzigerNachtwache</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          12.373867,51.3387626,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Osnabrück</name>
+      <description>https://www.facebook.com/JuggerOS/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.0682564,52.2553393,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Demmin</name>
+      <description>http://juggerdemmin.wordpress.com/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          13.0494618,53.9059436,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dead Rabbits</name>
+      <description>https://www.facebook.com/DeadRabbitsLorsch/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.5671043,49.6531823,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Keulen Eulen</name>
+      <description>https://www.facebook.com/KeulenEulen/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          7.0394944,49.2512328,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Die Goldenen Reiter Dresden</name>
+      <description>https://www.facebook.com/DieGoldenenReiterDresden/?fref=ts</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          13.7372017,51.0502976,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Die mit der Mühle</name>
+      <description>https://www.facebook.com/DieMitDerMuehle/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          10.9886456,49.4770758,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Juggersport Saarpfalz eV</name>
+      <description>https://www.juggersportsaarpfalz.de/</description>
+      <styleUrl>#icon-959-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          7.31948799999998,49.288656,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nordische Sport Amateure </name>
+      <description>https://www.facebook.com/flnsa/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          9.4478989,54.7933619,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cranium Ex Machina</name>
+      <description>No Contact Info Yet</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          9.9604797,53.4610728,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugg Norris</name>
+      <description>No contact page yet.</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          9.4795704,51.3124277,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Mighty Juggs</name>
+      <description>https://www.facebook.com/JuggerLippstadt/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.341198,51.6710913,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Die Jugg-Badgers</name>
+      <description>http://jugger.de/teams/juggerteams-sachsen-anhalt.php</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          11.0567629,51.8943776,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bayreuth Ravens</name>
+      <description>No Contact Info</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          11.5710068,49.945255,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger ve Velkém Oseku</name>
+      <description><![CDATA[Oddíl sokolské všestrannosti Velký Osek.<br><br>Kontakt:<br>http://www.oseckagymnastika.cz/<br><br>==================================<br><br>Leisure activity club offering jugger.<br><br>Contact:<br>http://www.oseckagymnastika.cz/]]></description>
+      <styleUrl>#icon-959-CCCCCC</styleUrl>
+      <Point>
+        <coordinates>
+          15.1928285,50.1012303,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger v Chomutově</name>
+      <description><![CDATA[Tělovýchovná jednota ZŠ SPV Chomutov.<br><br>Kontakt:<br>http://www.prdi.intek.cz/<br><br>==================================<br><br>Leisure activity club offering jugger.<br><br>Contact:<br>http://www.prdi.intek.cz/]]></description>
+      <styleUrl>#icon-959-CCCCCC</styleUrl>
+      <Point>
+        <coordinates>
+          13.4007025,50.4625242,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger v Rýmařově</name>
+      <description><![CDATA[Gymnázium a Střední odborná škola Rýmařov.<br><br>Kontakt:<br>http://www.gymsosrym.cz/<br><br>==================================<br>High school playing jugger.<br><br>Contact:<br>http://www.gymsosrym.cz/]]></description>
+      <styleUrl>#icon-959-CCCCCC</styleUrl>
+      <Point>
+        <coordinates>
+          17.2669995,49.9337892,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bob Jugger</name>
+      <description>https://www.facebook.com/bobjuggersued/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.8522339,48.9479845,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LachsBoyZ</name>
+      <description>https://forum.jugger.org/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          7.5220299,51.7385102,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Potsdamer Piranhas</name>
+      <description>https://www.facebook.com/PotsdamerPiranhas</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          13.0370800000001,52.389943,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Collapse</name>
+      <description>https://www.facebook.com/CollapseJugger/</description>
+      <styleUrl>#icon-503-93D7E8</styleUrl>
+      <Point>
+        <coordinates>
+          -74.0756607,4.649658,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Hare Ridders</name>
+      <description>https://www.facebook.com/thehareriddersteam/</description>
+      <styleUrl>#icon-503-93D7E8</styleUrl>
+      <Point>
+        <coordinates>
+          -74.0856171,4.6565018,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Siena</name>
+      <description>https://www.facebook.com/Jugger-Siena-588564341512160/</description>
+      <styleUrl>#icon-503-7C3592</styleUrl>
+      <Point>
+        <coordinates>
+          11.3312541,43.3181225,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Basel</name>
+      <description>https://www.facebook.com/juggerbasel/</description>
+      <styleUrl>#icon-503-A61B4A</styleUrl>
+      <Point>
+        <coordinates>
+          7.5874217,47.5704579,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Togliatti</name>
+      <description>https://vk.com/jugger_sport_tlt</description>
+      <styleUrl>#icon-503-A7B5D7</styleUrl>
+      <Point>
+        <coordinates>
+          49.296362,53.5166354,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Kursk</name>
+      <description>http://jugger-russia.tk/en/index.html</description>
+      <styleUrl>#icon-503-A7B5D7</styleUrl>
+      <Point>
+        <coordinates>
+          36.1550957,51.7076538,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dracones Pannoniæ</name>
+      <description>https://www.facebook.com/groups/267237040684367/</description>
+      <styleUrl>#icon-503-D698AD</styleUrl>
+      <Point>
+        <coordinates>
+          19.0396658,47.4970961,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Peters Pawns</name>
+      <description>https://goo.gl/maps/XsU31xRc5bQ2</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.66347229999997,51.951983,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Asylum</name>
+      <description>http://www.facebook.com/JuggerAsylum</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          7.57082179999998,50.4371429,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger am Eck (Jaeck)</name>
+      <description>https://www.facebook.com/JuggeramEck/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          7.58899589999999,50.3569429,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ilmenites</name>
+      <description>https://www.facebook.com/Ilmenites/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          10.9254728,50.6843502,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bembelritter</name>
+      <description>http://jugger-ffm.de/#training AND https://www.facebook.com/groups/411040459105151/</description>
+      <styleUrl>#icon-503-F8971B</styleUrl>
+      <Point>
+        <coordinates>
+          8.64081199999998,50.143488,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

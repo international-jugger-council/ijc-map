@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Other</name>
+    <Style id="icon-503-777777-normal">
+      <IconStyle>
+        <color>ff777777</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-777777-highlight">
+      <IconStyle>
+        <color>ff777777</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-777777">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-777777-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-777777-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-795046-normal">
+      <IconStyle>
+        <color>ff465079</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-795046-highlight">
+      <IconStyle>
+        <color>ff465079</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-795046">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-795046-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-795046-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-7CCFA9-normal">
+      <IconStyle>
+        <color>ffa9cf7c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-7CCFA9-highlight">
+      <IconStyle>
+        <color>ffa9cf7c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-7CCFA9">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-7CCFA9-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-7CCFA9-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-9FC3FF-normal">
+      <IconStyle>
+        <color>ffffc39f</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-9FC3FF-highlight">
+      <IconStyle>
+        <color>ffffc39f</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-9FC3FF">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-9FC3FF-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-9FC3FF-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-B29189-normal">
+      <IconStyle>
+        <color>ff8991b2</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-B29189-highlight">
+      <IconStyle>
+        <color>ff8991b2</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-B29189">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-B29189-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-B29189-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-CCCCCC-normal">
+      <IconStyle>
+        <color>ffcccccc</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-CCCCCC-highlight">
+      <IconStyle>
+        <color>ffcccccc</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-CCCCCC">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-CCCCCC-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-CCCCCC-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-F9F7A6-normal">
+      <IconStyle>
+        <color>ffa6f7f9</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-F9F7A6-highlight">
+      <IconStyle>
+        <color>ffa6f7f9</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-F9F7A6">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-F9F7A6-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-F9F7A6-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-FAD199-normal">
+      <IconStyle>
+        <color>ff99d1fa</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-FAD199-highlight">
+      <IconStyle>
+        <color>ff99d1fa</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-FAD199">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-FAD199-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-FAD199-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-FFDD5E-normal">
+      <IconStyle>
+        <color>ff5eddff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-FFDD5E-highlight">
+      <IconStyle>
+        <color>ff5eddff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-FFDD5E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-FFDD5E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-FFDD5E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-959-7CCFA9-normal">
+      <IconStyle>
+        <color>ffa9cf7c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-7CCFA9-highlight">
+      <IconStyle>
+        <color>ffa9cf7c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-959-7CCFA9">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-7CCFA9-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-7CCFA9-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-959-C6A4CF-normal">
+      <IconStyle>
+        <color>ffcfa4c6</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-C6A4CF-highlight">
+      <IconStyle>
+        <color>ffcfa4c6</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-959-C6A4CF">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-C6A4CF-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-C6A4CF-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-960-777777-normal">
+      <IconStyle>
+        <color>ff777777</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-960-777777-highlight">
+      <IconStyle>
+        <color>ff777777</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-960-777777">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-960-777777-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-960-777777-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-960-7C3592-normal">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-960-7C3592-highlight">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-960-7C3592">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-960-7C3592-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-960-7C3592-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-960-CCCCCC-normal">
+      <IconStyle>
+        <color>ffcccccc</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-960-CCCCCC-highlight">
+      <IconStyle>
+        <color>ffcccccc</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-960-CCCCCC">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-960-CCCCCC-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-960-CCCCCC-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-961-CCCCCC-normal">
+      <IconStyle>
+        <color>ffcccccc</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-961-CCCCCC-highlight">
+      <IconStyle>
+        <color>ffcccccc</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-961-CCCCCC">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-961-CCCCCC-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-961-CCCCCC-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-962-000000-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-962-000000-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-962-000000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-962-000000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-962-000000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-962-7C3592-normal">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-962-7C3592-highlight">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-962-7C3592">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-962-7C3592-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-962-7C3592-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-962-CCCCCC-normal">
+      <IconStyle>
+        <color>ffcccccc</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-962-CCCCCC-highlight">
+      <IconStyle>
+        <color>ffcccccc</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-962-CCCCCC">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-962-CCCCCC-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-962-CCCCCC-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Jugger Wien</name>
+      <description>https://www.facebook.com/juggervienna</description>
+      <styleUrl>#icon-959-C6A4CF</styleUrl>
+      <Point>
+        <coordinates>
+          16.3735343,48.2083162,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Second Cubs Jugger Club</name>
+      <description>https://www.facebook.com/secondcubsjuggerclub/</description>
+      <styleUrl>#icon-503-B29189</styleUrl>
+      <Point>
+        <coordinates>
+          24.5636272,46.5467898,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Klausen Jokers</name>
+      <description>No Contact Info Yet</description>
+      <styleUrl>#icon-503-B29189</styleUrl>
+      <Point>
+        <coordinates>
+          23.6319351,46.7744361,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mud Flagons</name>
+      <description>https://www.facebook.com/groups/433127063457986/</description>
+      <styleUrl>#icon-503-FFDD5E</styleUrl>
+      <Point>
+        <coordinates>
+          3.7181854,51.0519702,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Nederland</name>
+      <description>https://www.facebook.com/groups/211091742340215</description>
+      <styleUrl>#icon-959-7CCFA9</styleUrl>
+      <Point>
+        <coordinates>
+          4.8932076,52.3701494,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AmstelJugger</name>
+      <description>https://www.facebook.com/pages/Amsteljugger/201009703300360</description>
+      <styleUrl>#icon-503-7CCFA9</styleUrl>
+      <Point>
+        <coordinates>
+          4.9082708,52.3392461,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Latvia</name>
+      <description>https://www.facebook.com/juggerlv/</description>
+      <styleUrl>#icon-503-FAD199</styleUrl>
+      <Point>
+        <coordinates>
+          24.1550303,56.9577995,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Lithuania</name>
+      <description>https://www.facebook.com/juggerlt/</description>
+      <styleUrl>#icon-503-795046</styleUrl>
+      <Point>
+        <coordinates>
+          25.279541,54.6865342,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Radomsko</name>
+      <description>https://www.facebook.com/juggeradomsko</description>
+      <styleUrl>#icon-503-777777</styleUrl>
+      <Point>
+        <coordinates>
+          19.4437408,51.0644859,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dzieci Fritza</name>
+      <description>No Contact Info</description>
+      <styleUrl>#icon-503-777777</styleUrl>
+      <Point>
+        <coordinates>
+          17.4360323,51.6963819,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akademia Juggera</name>
+      <description>https://www.facebook.com/Akademia-juggera-1662384364013702/</description>
+      <styleUrl>#icon-503-777777</styleUrl>
+      <Point>
+        <coordinates>
+          19.9443054,50.0589021,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Polish Jugger League</name>
+      <description>https://www.facebook.com/polishjuggerleague/</description>
+      <styleUrl>#icon-960-777777</styleUrl>
+      <Point>
+        <coordinates>
+          17.035675,51.106971,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Czech Jugger - Krutá hra</name>
+      <description><![CDATA[Fullkontaktní jugger v postapokalyptickém stylu<br><br>Tréninky:<br>v nepravidelných intervalech v neděli odpoledne v Letenských sadech<br><br>Kontakt:<br>https://www.facebook.com/krutahra<br><br>================================<br><br>Fullcontact jugger postapocalyptic style<br><br>Trainings:<br>irregularly but on Sunday afternoons in Letenské sady (where the pin is)<br><br>Contact:<br>https://www.facebook.com/krutahra]]></description>
+      <styleUrl>#icon-960-CCCCCC</styleUrl>
+      <Point>
+        <coordinates>
+          14.4181287,50.0971011,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>jugger.cz</name>
+      <description><![CDATA[jugger v České republice<br><br>Kontakt:<br>http://jugger.cz<br>www.facebook.com/jugger.cz<br><br>==================================<br><br>jugger in the Czech republic<br><br>Contact:<br>http://jugger.cz<br>www.facebook.com/jugger.cz]]></description>
+      <styleUrl>#icon-961-CCCCCC</styleUrl>
+      <Point>
+        <coordinates>
+          14.4245123,50.0835545,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Znojmo</name>
+      <description><![CDATA[Tréninky:<br>nepravidelně<br><br>Kontakt:<br>https://www.facebook.com/JuggerZnojmo<br><br>==================================<br><br>Trainings:<br>irregularly<br><br>Contact:<br>https://www.facebook.com/JuggerZnojmo]]></description>
+      <styleUrl>#icon-503-CCCCCC</styleUrl>
+      <Point>
+        <coordinates>
+          16.0558319,48.8547763,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadaři Praha</name>
+      <description><![CDATA[Tréninky:<br>každé pondělí od 18:00 do 20:00 na rovince v Riegrových sadech<br><br>Kontakt:<br>https://www.facebook.com/SadariPraha/<br><br>=================================<br><br>Trainings:<br>every Monday from 6pm to 8pm in Riegrovy sady (where the pin is)<br><br>Contact:<br>https://www.facebook.com/SadariPraha/]]></description>
+      <styleUrl>#icon-503-CCCCCC</styleUrl>
+      <Point>
+        <coordinates>
+          14.4437385,50.0797335,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Israel</name>
+      <description>https://www.facebook.com/groups/1662627454012833/</description>
+      <styleUrl>#icon-503-9FC3FF</styleUrl>
+      <Point>
+        <coordinates>
+          35.0221825,32.7773163,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grazer Panthers</name>
+      <description>https://www.facebook.com/groups/732500243621178/</description>
+      <styleUrl>#icon-503-F9F7A6</styleUrl>
+      <Point>
+        <coordinates>
+          15.4395039999999,47.070714,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sighting of Jugger at Noxbo</name>
+      <description><![CDATA[Sighting of Jugger in Finland - https://www.youtube.com/watch?v=--l2w0Koi2M&feature=youtu.be&t=23m17s]]></description>
+      <styleUrl>#icon-962-7C3592</styleUrl>
+      <Point>
+        <coordinates>
+          24.5977235,61.1999348,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger at Kiev Fencing Club</name>
+      <description><![CDATA[http://forum.jugger.org/viewtopic.php?f=29&t=2112]]></description>
+      <styleUrl>#icon-962-000000</styleUrl>
+      <Point>
+        <coordinates>
+          30.5236244,50.4499352,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Juggerball Marozzo</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=Ges3oHRuFIs"><img src="https://img.youtube.com/vi/Ges3oHRuFIs/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Ges3oHRuFIs">https://www.youtube.com/embed/Ges3oHRuFIs</a><br><br>Teams from Rome, Florence and Perugia have competed. Held at event called Valhalla. https://www.youtube.com/watch?v=Ges3oHRuFIs]]></description>
+      <styleUrl>#icon-960-7C3592</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/Ges3oHRuFIs</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          12.5299072,41.902277,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kroužek jugger (Rodinné cetrum Osmička)</name>
+      <description><![CDATA[Kroužek jugger v rámci aktivit Rodinného centra Osmička.<br><br>Kontakt:<br>http://osmickaprorodinu.cz/detske-kluby/rc-osmicka/<br>http://jugger.cz<br>www.facebook.com/jugger.cz<br><br>==================================<br><br>Leisure activity club offering jugger.<br><br>Contact:<br>http://osmickaprorodinu.cz/detske-kluby/rc-osmicka/<br>http://jugger.cz<br>www.facebook.com/jugger.cz]]></description>
+      <styleUrl>#icon-962-CCCCCC</styleUrl>
+      <Point>
+        <coordinates>
+          14.4315934,50.1407639,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kroužek jugger (Wannado Arena)</name>
+      <description><![CDATA[Kroužek jugger v rámci aktivit Wannado Areny.<br><br>Kontakt:<br>https://www.wannadosports.com/cz/subpage/wannado_arena<br>http://jugger.cz<br>www.facebook.com/jugger.cz<br><br>==================================<br><br>Leisure activity club offering jugger.<br><br>Contact:<br>https://www.wannadosports.com/cz/subpage/wannado_arena<br>http://jugger.cz<br>www.facebook.com/jugger.cz]]></description>
+      <styleUrl>#icon-962-CCCCCC</styleUrl>
+      <Point>
+        <coordinates>
+          14.4910124,50.032559,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jugger Zheleznogorsk</name>
+      <description><![CDATA[Zheleznogorsk, Pathfinders' square]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          35.373729,52.331021,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
