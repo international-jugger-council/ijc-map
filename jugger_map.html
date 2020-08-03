@@ -22,6 +22,7 @@
     <div id="controls">
       Show inactive clubs: <input type="checkbox" id="showInactive" onclick="setShowInactive()">
       Show armored clubs: <input type="checkbox" id="showArmored" onclick="setShowArmored()">
+      Show youth clubs: <input type="checkbox" id="showYouth" onclick="setShowYouth()">
       Clubs visible: <span id="numMarkers">0</span>
       <br/>
       <a href="https://docs.google.com/spreadsheets/d/1KHNrKrpunvWNaGVStFhj7Ra2EC_kgK8sZQsxa2yiJuk/edit#gid=0">Source data</a>
@@ -188,8 +189,9 @@
             {imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
       }
 
-      var showInactive = false;
-      var showArmored = false;
+      var showInactive = getQueryVariable('showInactive');
+      var showArmored = getQueryVariable('showArmored');
+      var showYouth = getQueryVariable('showYouth');
 
       function setShowInactive() {
         showInactive = document.getElementById("showInactive").checked;
@@ -197,6 +199,10 @@
       }
       function setShowArmored() {
         showArmored = document.getElementById("showArmored").checked;
+        initMap();
+      }
+      function setShowYouth() {
+        showYouth = document.getElementById("showYouth").checked;
         initMap();
       }
 
