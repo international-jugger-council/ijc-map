@@ -70,7 +70,7 @@
             }
         }
         return '';
-    }
+      }
 
       function initMap() {
         startLat = parseFloat(getQueryVariable('lat')) || 43.6754782;
@@ -95,7 +95,9 @@
         var contact_method_col = spreadsheet_data[0].indexOf('Contact Method');
         var active_col = spreadsheet_data[0].indexOf('Active?');
         var armored_col = spreadsheet_data[0].indexOf('Armored?');
+        var youth_col = spreadsheet_data[0].indexOf('Youth?');
         var description_col = spreadsheet_data[0].indexOf('Description');
+        var logo_col = spreadsheet_data[0].indexOf('Logo');
         var markers = spreadsheet_data.slice(1).map(function(club_data, i) {
           console.log(club_data[active_col], club_data[armored_col], club_data[name_col]);
           // images for things that are or are not to be shown
@@ -113,6 +115,13 @@
               return;
             }
             image = 'IJC_map_pin_inactive.png'
+          }
+
+          if (club_data[youth_col] == 'TRUE') {
+            if (! showYouth) {
+              return;
+            }
+            image = 'IJC_map_pin_youth.png'
           }
 
           // otherwise, make a marker for it
