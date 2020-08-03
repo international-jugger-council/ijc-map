@@ -129,7 +129,7 @@
           var info_window_string = `<div id="content">`;
           if (club_data[logo_col]) {
             // if we have a logo to show, jam everything into a table and put the logo on one side of it.
-            info_window_string += `<table><tr><td><img src= ${club_data[logo_col]}></td><td>`
+            info_window_string += `<table><tr><td style="padding-right:15px"><img src= ${club_data[logo_col]}></td><td>`
           }
           info_window_string += `
             <h1 id="firstHeading" class="firstHeading">
@@ -164,7 +164,7 @@
             </div>`
           if (club_data[logo_col]) {
             // if we're showing a logo, we need to close off our tables all tidy-like.
-            info_window_string += `</tr></td></table>`
+            info_window_string += `</td></tr></table>`
           }
           info_window_string += `</div>`;
 
