@@ -75,11 +75,12 @@
       function initMap() {
         startLat = parseFloat(getQueryVariable('lat')) || 43.6754782;
         startLng = parseFloat(getQueryVariable('lng')) || -79.3481673;
+        startZoom = parseFloat(getQueryVariable('zoom')) || 2;
 
         num_markers = 0;
 
         var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: getQueryVariable('lat') ? 5 : 2,
+          zoom: startZoom,
           center: {lat: startLat, lng: startLng}
         });
 
