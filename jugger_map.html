@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Jugger Map Test</title>
+    <title>International Jugger Council: Map of Global Jugger Clubs</title>
     <meta charset="utf-8" />
     <style>
       /* Always set the map height explicitly to define the size of the div
@@ -49,7 +49,7 @@
        * Name
        * Latitude
        * Longitude
-       * ... whatever else we want to display (nothing for now) ...
+       * ... whatever else we want to display ...
        */
       function listCentres() {
         fetch(spreadsheet_url).then(function(response) {
@@ -83,20 +83,20 @@
         var markers = spreadsheet_data.slice(1).map(function(club_data, i) {
           console.log(club_data[active_col], club_data[armored_col], club_data[name_col]);
           // images for things that are or are not to be shown
-          var image = 'skull.png';
+          var image = 'IJC_map_pin.png';
 
           if (club_data[armored_col] == 'TRUE') {
             if (! showArmored) {
               return;
             }
-            image = 'skull_red.png'
+            image = 'IJC_map_pin_armored.png'
           }
 
           if (club_data[active_col] != 'TRUE') {
             if (! showInactive) {
               return;
             }
-            image = 'skull_gray.png'
+            image = 'IJC_map_pin_inactive.png'
           }
 
           // otherwise, make a marker for it
