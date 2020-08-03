@@ -79,7 +79,7 @@
         num_markers = 0;
 
         var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 3,
+          zoom: getQueryVariable('lat') ? 5 : 2,
           center: {lat: startLat, lng: startLng}
         });
 
